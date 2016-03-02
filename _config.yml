@@ -1,0 +1,28 @@
+name: mptest
+favicon: null
+layout_spectrum: 0.7050800682045519
+typography_spectrum: 0.15112687344662845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6680311744567007
+  lightness: 0.9503957997076213
+  saturation: 0.729912337847054
+  rhythmicContrast: 0.8039779763203114
+purpose: []
